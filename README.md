@@ -1,11 +1,11 @@
-ATM-AND-BANKING-SYSTEM
-Reg No: 212223110039
-Name: RAKSHITHA K
-Date: 
-AIM:
+## ATM-AND-BANKING-SYSTEM
+## Reg No: 212223110039
+## Name: RAKSHITHA K
+## Date: 
+## AIM:
 To develop the ATM and Banking System using Star UML
 
-Problem Statement:
+## Problem Statement:
 1.Banks need to provide fast, secure, and self-service access to basic banking functionalities.
 
 2.Manual banking for simple tasks (like cash withdrawal or balance inquiry) leads to long queues and inefficient use of bank staff.
@@ -26,8 +26,8 @@ Problem Statement:
 
 10.Provide a simple and intuitive user interface.
 
-UML DIAGRAMS
-USE CASE DIAGRAM
+## UML DIAGRAMS
+## USE CASE DIAGRAM
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
@@ -42,9 +42,10 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+<img width="523" height="448" alt="image" src="https://github.com/user-attachments/assets/564cc948-548e-4e07-8999-21bb636d7cfb" />
 
-Screenshot 2025-09-06 142743
-CLASS DIAGRAM
+
+## CLASS DIAGRAM
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
 among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
@@ -56,23 +57,23 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="504" height="322" alt="image" src="https://github.com/user-attachments/assets/efc8f212-454f-4cf3-bf86-7aed47a62907" />
 
-Screenshot 2025-09-06 183618
-COMMUNICTION DIAGRAM:
+## COMMUNICTION DIAGRAM:
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="485" height="416" alt="image" src="https://github.com/user-attachments/assets/7bd647f6-41d0-46a7-9d4d-bcc3b57f98bc" />
 
-Screenshot 2025-09-06 143549
-PACKAGE DIAGRAM:
+## PACKAGE DIAGRAM:
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
+<img width="522" height="305" alt="image" src="https://github.com/user-attachments/assets/acc6ae10-70db-4007-a551-72adbc205c8e" />
 
-Screenshot 2025-09-06 143047
-ACTIVITY DIAGRAM:
+## ACTIVITY DIAGRAM:
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
 Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. Activity diagrams help people on the business and development sides of an organization come together to understand the same process and behavior.
@@ -82,14 +83,14 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="523" height="440" alt="image" src="https://github.com/user-attachments/assets/54d9af2d-2150-4ab2-a44a-79734b7d17f1" />
 
-Screenshot 2025-09-06 141901
-SEQUENCE DIAGRAM
+## SEQUENCE DIAGRAM
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
-BENEFITS OF SEQUENCE DIAGRAM
+## BENEFITS OF SEQUENCE DIAGRAM
 Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
 
 Represent the details of UML use cases.
@@ -97,7 +98,7 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+<img width="503" height="425" alt="image" src="https://github.com/user-attachments/assets/309596cc-0dab-4c3d-8a40-36274786c00c" />
 
-Screenshot 2025-09-06 134558
-RESULT
+## RESULT
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
